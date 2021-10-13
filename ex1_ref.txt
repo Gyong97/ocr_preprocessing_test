@@ -1,0 +1,16 @@
+int arrayAnimal[4][5]; // 카드 지도 (20장의 카드)
+char * strAnimal[10];
+
+void initAnimalArray();
+void initAnimalName();
+
+int main(void)
+{
+    srand(time(NULL));
+
+    initAnimalArray();
+    initAnimalName();
+
+    shuffleAnimal();
+
+    return 0;

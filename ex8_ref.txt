@@ -1,0 +1,16 @@
+            int iDamage = iAttack - iArmor;
+            // 삼항연산자 : 조건식 ? true일때값 : false일때값;
+            //if (iDamage < 1)
+            //  iDamage = 1;
+            iDamage = iDamage < 1 ? 1 : iDamage;
+            
+            // 몬스터 HP를 감소시킨다.
+            tMonster.iHP -= iDamage;
+
+        }
+            break;
+        }
+
+    }
+}
+break;

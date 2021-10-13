@@ -1,0 +1,11 @@
+package main
+
+import "fmt"
+
+func main() {
+    var test1 string
+    test1 = "Hello shop2"
+    test1 = "shop3"
+
+    fmt.Println("Hello world")
+}

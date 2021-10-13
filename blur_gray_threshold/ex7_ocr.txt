@@ -1,0 +1,18 @@
+
+    Function 
+    - fundeeental building block 217 the progres 
+    - subprograe can be used multigle tises 
+    - perforas a task or calculates 0 valve 
+    1. Function declaration 
+    function namefparaal, 08002)  { boty... return; } 
+    ane function =m  ane thing 
+    naming: doSomething, comand,  verb 
+    €.0. CreataCardAndPotnt -» crasteCart, createPoint 
+    function 2  object in 24 
+ funCtage printretiof) { 
+   console. Lagi ‘Pella’ I; 
+ 1) 
+ 파  래 태 01011; 
+  function togimegsagel { 
+   console. logimessage  ; 
+ }              0 

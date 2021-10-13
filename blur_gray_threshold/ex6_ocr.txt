@@ -1,0 +1,8 @@
+
+ 끄  {RE HI 
+ PEA 배 개 번 죽 가 밌 는 하 
+ function sayHelloCname){ 
+   const msg = “Hello, ${name} ; 
+   console. log(msg); 
+} 
+ sayHello('Mike'); 

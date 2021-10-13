@@ -1,0 +1,8 @@
+
+  package  main 
+  import  "fmt" 
+  func  main() 
+       var testl string 
+      testl  = "Hella shop2” 
+      testl  = "shop3'| 
+       #mt.Println("Hello world!") 

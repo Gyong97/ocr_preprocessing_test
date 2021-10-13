@@ -1,0 +1,9 @@
+// 함수 작성
+// 매개변수가 있는 함수
+
+function sayHello(name){
+    const msg = `Hello, ${name}`;
+    console.log(msg);
+}
+
+sayHello('Mike');

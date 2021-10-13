@@ -1,0 +1,16 @@
+
+             cout << 2.  도 말 가기"   << andl: 
+             cout << ANE     선 택 하세요    : "; 
+             이 
+             11 (cin. fail) 
+             { 
+                 cin.clear(); 
+                 cin ignora(1024, ‘W'); 
+                 continue, 
+             1 
+             쿠테   시  {illany == BATTLE BACK) 
+                 break: 
+             switch (10) 
+             { 
+             case BATILEATTACK 
+                 [he 

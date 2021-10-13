@@ -1,0 +1,14 @@
+
+                 11 (Danage = 1Attack - 1 치 01: 
+                   삼 황 면 산자  TAN   ? rue       false 
+                  이  10800 ~ 11 
+                 '、 Manage - 1 
+                 (Danage = IDamage < 7 ㅣ: (Denage: 
+                   본 스터 PR   같 소 시 긴다 
+                 tHonster . iHP -= Damage 
+             } 
+                break: 
+             } 
+          } 
+       } 
+       break: 
