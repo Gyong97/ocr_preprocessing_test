@@ -1,13 +1,13 @@
 
-nt arcwolmi [IG]. // 가드 TIE (089 카드) 
-char 이 stranimel [10]. 
-void InitAnimlArrav(l. 
-LICRUIT ITE  ib 
-int wa lalvo dl 
-1 
-   가 매 (의). 
-   1 미 려 1 삐 써 뻐 }. 
-   In1tAn vel Name () . 
-  sett anim!) 
-——                     0              0m 
-   retuen © 
+int arrayAnimal [4] [5]; // 카드 치도 [20 장 의 카드) 
+char + strAnimal [10], 
+wold initAnimalArray() | 
+wld  InitAnimalNamel) | 
+int min(void) 
+| 
+    srand(time(NAL)) 
+    initAnimalArrayl) | 
+    In tAn imal Name) , 
+    shuff leAnimal () , 
+EE 
+    CAO} 

@@ -1,18 +1,19 @@
 
     Function 
-    - fundeeental building block 217 the progres 
-    - subprograe can be used multigle tises 
-    - perforas a task or calculates 0 valve 
+    - fundamental building block in  the program 
+    - Subprogram can be used multiple  times 
+    - performs a  task or calculates a value 
     1. Function declaration 
-    function namefparaal, 08002)  { boty... return; } 
-    ane function =m  ane thing 
-    naming: doSomething, comand,  verb 
-    €.0. CreataCardAndPotnt -» crasteCart, createPoint 
-    function 2  object in 24 
- funCtage printretiof) { 
-   console. Lagi ‘Pella’ I; 
- 1) 
- 파  래 태 01011; 
-  function togimegsagel { 
-   console. logimessage  ; 
- }              0 
+     function name(paraml, param?2) { body... return; )} 
+    one  function === gone thing 
+    naming: doSomething, command,  verb 
+    e.g. createCardAndPoint ->  createCard, createPoint 
+     function 1s object in JS 
+ function printHello()  { 
+   console. log( "1161.10 " ) ; 
+ } 
+ printHello(); 
+ 11          ES 
+  function log(message) { 
+   console. logimessage) ; 
+ } 

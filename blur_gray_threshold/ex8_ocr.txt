@@ -1,14 +1,15 @@
 
-                 11 (Danage = 1Attack - 1 치 01: 
-                   삼 황 면 산자  TAN   ? rue       false 
-                  이  10800 ~ 11 
-                 '、 Manage - 1 
-                 (Danage = IDamage < 7 ㅣ: (Denage: 
-                   본 스터 PR   같 소 시 긴다 
-                 tHonster . iHP -= Damage 
+                    PMUHIOLET  TRATIVImIN 
+                 nt Damage = IAttack - 1Armor 
+                [| 삼 항 연산자  ; 조건식 ? {((0 일 때 값 ; {8|50 일 때 값 : 
+                1'/1|| (iDamage < 1) 
+                //  Damage = 1, 
+                 \Damage = [Damage <1 7 1 : Damage. 
+                // 몬스터  PR  감 소 시킨다, 
+                 thonster . iHP == {Damage 
              } 
-                break: 
+                break.              | 
              } 
           } 
        } 
-       break: 
+       EELS 

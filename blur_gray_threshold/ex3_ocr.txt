@@ -1,9 +1,9 @@
 
- # DOTALL, 5 
- import re 
- #p  = re.compile(‘a.b’) 
- # m=  p.match('a\nb') 
- # print({m) 
- p = re.compile('a.b’,  re.DOTALL) 
- m = p.match(’a\nn') 
- print(m) 
++ Bl      :                                                                   | 
+ Inport re 
+#0  = re.compile('ab’) 
+11:   ponatch('a\nb') 
+ print(n) 
+ p+  re, comle('a.0', re, JOTALL 
+n=  pmatch(‘a\nb') 
+ print(n) 

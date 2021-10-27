@@ -1,8 +1,8 @@
 
- 끄  {RE HI 
- PEA 배 개 번 죽 가 밌 는 하 
- function sayHelloCname){ 
-   const msg = “Hello, ${name} ; 
-   console. log(msg); 
-} 
+ // 함수  작성 
+ // 매 개 변 수 가 있는  함수 
+ function  sayHello(Cname){ 
+   const  msg =  "Hello,  ${name} ; 
+   os] Lo) IR ERTST (UEYP) H 
+ } 
  sayHello('Mike'); 

@@ -1,18 +1,20 @@
 
-  pubic tre gene) (| 
-  ;        4 
-  Public wid sevxcins x) + 
-     THA 
-  + 
-  pubs tnt gern) (. 
-     ratenn J 
-  1 
-  public vasa servitnt 1) + 
-     Wy     가 
-  1 
-  bie  mdetine «Int 13 | 
-     hive   nt 
-     mays 
+  public  int getx() { 
+       return Xx; 
+  } 
+  public void  setX(int x) | 
+       this.x = x} 
   ) 
-  PBL  de  gecantar ods ute ) | 
-  Tree    esd     Ea    Sh   ess)  A 
+  public  int gety() [ 
+       return / 
+   ) 
+  public void  sety(int y) [ 
+       this.y = yi 
+   ) 
+  public Mode(dnt  x, int y) | 
+       this.x = x} 
+      this.y  « yj 
+   } 
+  public Mode  getCenter (Node other) |        A 
+      return  AL, 
+   } 

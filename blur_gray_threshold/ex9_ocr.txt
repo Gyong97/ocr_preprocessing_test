@@ -1,16 +1,16 @@
 
-             cout << 2.  도 말 가기"   << andl: 
-             cout << ANE     선 택 하세요    : "; 
-             이 
-             11 (cin. fail) 
+             cout <<  "2, 도 망  가 기 " << endl; 
+             cout <<  ' 메 뉴 를 선 택 하세요    : "; 
+             cin >>  Menu: 
+              1 (cin. faill)) 
              { 
-                 cin.clear(); 
-                 cin ignora(1024, ‘W'); 
+                 ALA      ARF 
+                 cin. ignore(1024, '#n'). 
                  continue, 
-             1 
-             쿠테   시  {illany == BATTLE BACK) 
-                 break: 
-             switch (10) 
+             } 
+             (150  f (iMenu == BATTLE BACK) 
+                 CELE 
+             switch (10000) 
              { 
-             case BATILEATTACK 
-                 [he 
+             case BATTLE ATTACK: 
+                 이보다: 해 

@@ -1,15 +1,17 @@
 
-Az   Te 
-B   이 
-정구 새재 
-une  래 의 890 데 (009 wena 자) 
-< 
-  1 
-ep 
+// 메모리   BY 
+1.    4% 
+// 2, 내 이 티 
+/ 푼 
+// 4, RoM(alt) 
+unsigned int GetLength(const wchar t* _pStr) 
+                         2, 
+int main() 
 { 
-  char 래 떼 [26] = 레자; 
-  J 
-  en   * Geng: 
-  wun; 
-; 
-Lo in     ae 
+    11110]          » L"Radimond®; 
+    [int {Len = wealen(siNeme); 
+    int {Len = GetLength(szNeme); 
+    return 0; 
+) 
+yi 100 
+ I] Ctrl + Shift + Soace 

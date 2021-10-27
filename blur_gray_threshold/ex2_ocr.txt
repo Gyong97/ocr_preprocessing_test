@@ -1,14 +1,15 @@
 
-// 고양이 
-// 이를. 나이 3A 커 후기 난이도 (4M 
-tvoedet struct | 
- cher + nem. // 이특 
-  nt age. 77 나여 
- cher + character, // 경리 
-  int level. // M¥3) 난이도 (15 57 of 
-) aan 
-// pany a ag                  주 
-int 때) 
-{ 
- retuen 0. 
-18950 
+1// 고양이 
+// 이름,   나이,   성격,   키우기   난이도    (레벨) 
+typedef struct | 
+    char + name; // 이름 
+    int age; // 나이 
+    char + character. // 43 
+    int level: // 키우기    난이도    (1-5, 57} Of 
+| CAT. 
+// 현 재 까 지  보유한    고양이 
+1000200000000000000000000000000000000000000000000 
+lint mainlvoid) 
+| 
+    return 0, 
+                                        == 

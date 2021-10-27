@@ -1,13 +1,13 @@
 
-   weapons = [ [w[e], w[1]] for w In weapons 1f w[1] > ©] 
-   we        사이 
-   for ball_idx, ball_val in enunerate(balls): 
-       ball _pos_x = ball_val["pos_x"] 
-    BR              | 
-       ball_ing_idx = ball_val["img_ldx"] 
-       ball size ＊ ball_tnages[ball_img_idx).get_rect().size 
-       ball_width = ball_size(0] 
-       ball_height = ball_size[1] 
-       1% ball_pos_x < 8 or ball pos_x > screen width - ball width: 
-           ball_val{“to x"] = ball val[“to x"] * -1 
-   [REE 
+   weapons = [ [w[@], w[1]] for w in weapons if w[1] > 0] 
+   #2   FA   35 
+   for ball idx, ball val in enumerate(balls): 
+       ball pos x = ball val "pos x"] 
+       ball pos y = ball val| "pos y"] 
+       ball img idx = ball val["img idx" ] 
+       ball size = ball images[ball img idx].get rect().size 
+       ball width = ball size[@] 
+       ball height = ball size[1] 
+       나  ball pos x < 0 or ball pos x > screen width - ball width: 
+           ball _val["to x"] = ball val["to x"] * -1 
+   1 4, 28   No 
