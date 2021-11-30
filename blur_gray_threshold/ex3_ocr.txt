@@ -1,9 +1,0 @@
-
-+ Bl      :                                                                   | 
- Inport re 
-#0  = re.compile('ab’) 
-11:   ponatch('a\nb') 
- print(n) 
- p+  re, comle('a.0', re, JOTALL 
-n=  pmatch(‘a\nb') 
- print(n) 

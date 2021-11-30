@@ -1,8 +1,0 @@
-
- // 함수  작성 
- // 매 개 변 수 가 있는  함수 
- function  sayHello(Cname){ 
-   const  msg =  "Hello,  ${name} ; 
-   os] Lo) IR ERTST (UEYP) H 
- } 
- sayHello('Mike'); 
